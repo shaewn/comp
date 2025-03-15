@@ -1,0 +1,7 @@
+.cache
+bin/
+huffman
+log.txt
+test.hf
+test.txt
+compile_commands.json
